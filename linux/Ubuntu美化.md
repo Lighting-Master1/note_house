@@ -1,5 +1,9 @@
 Ubuntu 入门到精通
 
+# 给用户root权限
+
+sudo usermod -aG sudo <用户名>
+
 # 1更换软件源
 
 ```
